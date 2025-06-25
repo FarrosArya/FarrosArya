@@ -15,7 +15,7 @@
   Yaitu [Laravel, React Js] yang lebih fokus terhadap Web Developer dan Backend😯
   Saya memiliki banyak hobi, Fotografi, Videografi, Esport dan tentu saja saya suka CODING!
   
-- 💞️ NICE TO SEE YOU! 💞️
+
 
 <!---
 FarrosArya/FarrosArya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
