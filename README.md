@@ -12,7 +12,7 @@
   Saya lahir di Probolinggo, pada tanggal 27 April tahun 2007. Saya anak pertama dari 3 bersaudara.
   Saya tinggal di Kota Pasuruan, tapi saya bersekolah di SMK TELKOM MALANG jurusan RPL "Rekayasa Perangkat Lunak".
   Di kelas 11 ini, Saya memilih Kelas Expertise.
-  Yaitu [Laravel, React Js] yang lebih fokus terhadap Web Developer😯
+  Yaitu [Laravel, React Js] yang lebih fokus terhadap Web Developer dan Backend😯
   Saya memiliki banyak hobi, Fotografi, Videografi, Esport dan tentu saja saya suka CODING!
   
 - 💞️ NICE TO SEE YOU! 💞️
